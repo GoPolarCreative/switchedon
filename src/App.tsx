@@ -107,11 +107,11 @@ const SERVICE_OPTIONS = [
 ];
 
 const GALLERY: { src: string; label?: string }[] = [
-  { src: '/gallery/20251203_082110559_iOS_-_Brad_Hird.jpg' },
-  { src: '/gallery/20260325_221237561_iOS_-_Brad_Hird.jpg', label: 'BEFORE' },
-  { src: '/gallery/20260326_061544635_iOS_-_Brad_Hird.jpg', label: 'AFTER' },
-  { src: '/gallery/20260409_030006213_iOS_-_Brad_Hird.jpg' },
-  { src: '/gallery/20260415_004127208_iOS_-_Brad_Hird.jpg' },
+  { src: '/20251203_082110559_iOS_-_Brad_Hird.jpg' },
+  { src: '/20260325_221237561_iOS_-_Brad_Hird.jpg', label: 'BEFORE' },
+  { src: '/20260326_061544635_iOS_-_Brad_Hird.jpg', label: 'AFTER' },
+  { src: '/20260409_030006213_iOS_-_Brad_Hird.jpg' },
+  { src: '/20260415_004127208_iOS_-_Brad_Hird.jpg' },
 ];
 
 interface FormState {
